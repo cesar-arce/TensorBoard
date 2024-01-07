@@ -469,8 +469,8 @@ of `tensorboard --inspect`, etc.).
 
 
 ## Links Related
-https://www.tensorflow.org/learn
-https://tensorboard.dev/
+https://www.tensorflow.org/learn \
+https://tensorboard.dev/ \
 https://pypi.org/project/tensorboard/
 https://www.tensorflow.org/tensorboard
 https://www.tensorflow.org/tensorboard/get_started
