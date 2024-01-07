@@ -471,20 +471,20 @@ of `tensorboard --inspect`, etc.).
 ## Links Related
 https://www.tensorflow.org/learn \
 https://tensorboard.dev/ \
-https://pypi.org/project/tensorboard/
-https://www.tensorflow.org/tensorboard
-https://www.tensorflow.org/tensorboard/get_started
+https://pypi.org/project/tensorboard/ \
+https://www.tensorflow.org/tensorboard \
+https://www.tensorflow.org/tensorboard/get_started \
 
-https://www.tensorflow.org/hub
+https://www.tensorflow.org/hub \
 
-https://ai.google.dev/api/python/google/generativeai
-https://github.com/google/generative-ai-python/blob/v0.3.0/google/generativeai/__init__.py
-https://github.com/Artificial-Intelligence-CA/Tensorflow-deep-learning/tree/main
+https://ai.google.dev/api/python/google/generativeai \
+https://github.com/google/generative-ai-python/blob/v0.3.0/google/generativeai/__init__.py \
+https://github.com/Artificial-Intelligence-CA/Tensorflow-deep-learning/tree/main \
 
 ### Welcome to the Zero to Mastery TensorFlow for Deep Learning Book
-https://dev.mrdbourke.com/tensorflow-deep-learning/#prerequisites
-https://dev.mrdbourke.com/tensorflow-deep-learning/00_tensorflow_fundamentals/
-https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_fundamentals.ipynb
+https://dev.mrdbourke.com/tensorflow-deep-learning/#prerequisites \
+https://dev.mrdbourke.com/tensorflow-deep-learning/00_tensorflow_fundamentals/ \
+https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_fundamentals.ipynb \
 
 ### TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial
 https://www.youtube.com/watch?v=tPYj3fFJGjk
