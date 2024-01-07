@@ -482,7 +482,7 @@ https://ai.google.dev/api/python/google/generativeai \
 https://github.com/google/generative-ai-python/blob/v0.3.0/google/generativeai/__init__.py \
 https://github.com/Artificial-Intelligence-CA/Tensorflow-deep-learning/tree/main
 
-### Welcome to the Zero to Mastery TensorFlow for Deep Learning Book
+### https://dev.mrdbourke.com/tensorflow-deep-learning/00_tensorflow_fundamentals/ Welcome to the Zero to Mastery TensorFlow for Deep Learning Book
 https://dev.mrdbourke.com/tensorflow-deep-learning/#prerequisites \
 https://dev.mrdbourke.com/tensorflow-deep-learning/00_tensorflow_fundamentals/ \
 https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_fundamentals.ipynb
