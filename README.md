@@ -17,20 +17,20 @@ corporate firewall, or in a datacenter.
 ## 🔗 Related Links
 
 [TensorFlow]: https://www.tensorflow.org/learn \
-[TensorBoard: ]: https://www.tensorflow.org/tensorboard
+[TensorBoard: ]: https://www.tensorflow.org/tensorboard \
 [TensorBoard: Getting Started]: https://www.tensorflow.org/tensorboard/get_started \
 [TensorBoard.dev]: https://tensorboard.dev \
 [This experiment]: https://tensorboard.dev/experiment/EDZb7XgKSBKo6Gznh3i8hg/#scalars
 
-https://pypi.org/project/tensorboard/ \
+[Download Python: PyPI]: https://pypi.org/project/tensorboard/
 
 [TensorFlow: Hub]: https://www.tensorflow.org/hub
 
 [TensorFlow: Community]: https://www.tensorflow.org/community
 
-https://ai.google.dev/api/python/google/generativeai \
-https://github.com/google/generative-ai-python/blob/v0.3.0/google/generativeai/__init__.py \
-https://github.com/Artificial-Intelligence-CA/Tensorflow-deep-learning/tree/main
+[Google Ai forDevelopers]: https://ai.google.dev/api/python/google/generativeai \
+[TensorFlow: Generative AI]: https://github.com/google/generative-ai-python/blob/v0.3.0/google/generativeai/__init__.py \
+[TensorFlow: GitHub]: https://github.com/Artificial-Intelligence-CA/Tensorflow-deep-learning/tree/main
 
 ### ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) Welcome to the Zero to Mastery TensorFlow for Deep Learning Book
 https://dev.mrdbourke.com/tensorflow-deep-learning/#prerequisites \
