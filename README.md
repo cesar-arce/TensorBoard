@@ -478,6 +478,8 @@ https://www.tensorflow.org/tensorboard/get_started
 
 https://www.tensorflow.org/hub
 
+https://www.tensorflow.org/community/contribute/docs_style
+
 https://ai.google.dev/api/python/google/generativeai \
 https://github.com/google/generative-ai-python/blob/v0.3.0/google/generativeai/__init__.py \
 https://github.com/Artificial-Intelligence-CA/Tensorflow-deep-learning/tree/main
