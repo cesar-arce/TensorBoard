@@ -28,7 +28,7 @@ corporate firewall, or in a datacenter.
 
 [TensorFlow: Community]: https://www.tensorflow.org/community
 
-[Google Ai for Developers]: https://ai.google.dev/api/python/google/generativeai \
+[Google AI for Developers]: https://ai.google.dev/api/python/google/generativeai \
 [TensorFlow: Generative AI]: https://github.com/google/generative-ai-python/blob/v0.3.0/google/generativeai/__init__.py \
 [TensorFlow: GitHub]: https://github.com/Artificial-Intelligence-CA/Tensorflow-deep-learning/tree/main
 
