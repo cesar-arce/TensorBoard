@@ -21,15 +21,13 @@ corporate firewall, or in a datacenter.
 ## 🔗 Related Links
 https://www.tensorflow.org/learn
 
-https://tensorboard.dev/
-
 https://pypi.org/project/tensorboard/ \
 https://www.tensorflow.org/tensorboard \
 https://www.tensorflow.org/tensorboard/get_started
 
 https://www.tensorflow.org/hub
 
-https://www.tensorflow.org/community/contribute/docs_style
+https://www.tensorflow.org/community
 
 https://ai.google.dev/api/python/google/generativeai \
 https://github.com/google/generative-ai-python/blob/v0.3.0/google/generativeai/__init__.py \
