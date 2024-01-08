@@ -18,6 +18,32 @@ corporate firewall, or in a datacenter.
 [TensorBoard.dev]: https://tensorboard.dev
 [This experiment]: https://tensorboard.dev/experiment/EDZb7XgKSBKo6Gznh3i8hg/#scalars
 
+## 🔗 Related Links
+https://www.tensorflow.org/learn
+
+https://tensorboard.dev/
+
+https://pypi.org/project/tensorboard/ \
+https://www.tensorflow.org/tensorboard \
+https://www.tensorflow.org/tensorboard/get_started
+
+https://www.tensorflow.org/hub
+
+https://www.tensorflow.org/community/contribute/docs_style
+
+https://ai.google.dev/api/python/google/generativeai \
+https://github.com/google/generative-ai-python/blob/v0.3.0/google/generativeai/__init__.py \
+https://github.com/Artificial-Intelligence-CA/Tensorflow-deep-learning/tree/main
+
+### ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) Welcome to the Zero to Mastery TensorFlow for Deep Learning Book
+https://dev.mrdbourke.com/tensorflow-deep-learning/#prerequisites \
+https://dev.mrdbourke.com/tensorflow-deep-learning/00_tensorflow_fundamentals/ \
+https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_fundamentals.ipynb
+
+### TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial
+https://www.youtube.com/watch?v=tPYj3fFJGjk
+
+
 # Usage
 
 Before running TensorBoard, make sure you have generated summary data in a log
@@ -467,7 +493,7 @@ of `tensorboard --inspect`, etc.).
 [pr-1867]: https://github.com/tensorflow/tensorboard/pull/1867
 [2-3-0]: https://github.com/tensorflow/tensorboard/releases/tag/2.3.0
 
-
+<!--
 ## 🔗 Related Links
 https://www.tensorflow.org/learn
 
@@ -491,3 +517,4 @@ https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob
 
 ### TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial
 https://www.youtube.com/watch?v=tPYj3fFJGjk
+-->
