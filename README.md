@@ -38,7 +38,7 @@ https://dev.mrdbourke.com/tensorflow-deep-learning/#prerequisites \
 https://dev.mrdbourke.com/tensorflow-deep-learning/00_tensorflow_fundamentals/ \
 https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_fundamentals.ipynb
 
-### TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial
+### ![YouTube Music](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube-music&logoColor=white) TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial
 https://www.youtube.com/watch?v=tPYj3fFJGjk
 
 
