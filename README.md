@@ -14,8 +14,8 @@ TensorBoard is designed to run entirely offline, without requiring any access
 to the Internet. For instance, this may be on your local machine, behind a
 corporate firewall, or in a datacenter.
 
-[TensorBoard: Getting Started]: https://www.tensorflow.org/tensorboard/get_started
-[TensorBoard.dev]: https://tensorboard.dev
+[TensorBoard: Getting Started]: https://www.tensorflow.org/tensorboard/get_started \
+[TensorBoard.dev]: https://tensorboard.dev \
 [This experiment]: https://tensorboard.dev/experiment/EDZb7XgKSBKo6Gznh3i8hg/#scalars
 
 ## 🔗 Related Links
