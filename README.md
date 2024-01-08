@@ -14,20 +14,19 @@ TensorBoard is designed to run entirely offline, without requiring any access
 to the Internet. For instance, this may be on your local machine, behind a
 corporate firewall, or in a datacenter.
 
+## 🔗 Related Links
+
+[TensorFlow]: https://www.tensorflow.org/learn \
+[TensorBoard: ]: https://www.tensorflow.org/tensorboard
 [TensorBoard: Getting Started]: https://www.tensorflow.org/tensorboard/get_started \
 [TensorBoard.dev]: https://tensorboard.dev \
 [This experiment]: https://tensorboard.dev/experiment/EDZb7XgKSBKo6Gznh3i8hg/#scalars
 
-## 🔗 Related Links
-https://www.tensorflow.org/learn
-
 https://pypi.org/project/tensorboard/ \
-https://www.tensorflow.org/tensorboard \
-https://www.tensorflow.org/tensorboard/get_started
 
-https://www.tensorflow.org/hub
+[TensorFlow: Hub]: https://www.tensorflow.org/hub
 
-https://www.tensorflow.org/community
+[TensorFlow: Community]: https://www.tensorflow.org/community
 
 https://ai.google.dev/api/python/google/generativeai \
 https://github.com/google/generative-ai-python/blob/v0.3.0/google/generativeai/__init__.py \
