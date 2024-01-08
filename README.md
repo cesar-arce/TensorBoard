@@ -22,6 +22,7 @@ corporate firewall, or in a datacenter.
 [TensorBoard.dev]: https://tensorboard.dev \
 [This experiment]: https://tensorboard.dev/experiment/EDZb7XgKSBKo6Gznh3i8hg/#scalars
 
+[![PyPI](https://badge.fury.io/py/tensorboard.svg)](https://badge.fury.io/py/tensorboard)
 [Download Python: PyPI]: https://pypi.org/project/tensorboard/
 
 [TensorFlow: Hub]: https://www.tensorflow.org/hub
